@@ -1,2 +1,2 @@
 # SenpaBlock
-youtube.com
+||youtube.com^
